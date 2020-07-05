@@ -18,7 +18,7 @@ Ouvrir un terminal Anaconda et executer:
 _Pré-requis:_ Avoir un compte gitlab. Et générer une clé rsa :'ssh-keygen -o -t rsa -b "4096" -C "email@adress" 
 * Suivre les consignes indiquées à l'écran et taper un mot de passe. 
 * Rajouter le contenue de la clé générée (~/.ssh/id_rsa.pub) sur votre compte gitlab. (Settings -> SSH), vous pouvez alors cloner le répertoire.
-* 'git clone https://gitlab.orekit.org/orekit-labs/python-wrapper.git"
+* 'git clone https://gitlab.orekit.org/orekit-labs/python-wrapper.git'
 
 
 ### Créer les variables d'environnement utilisateur :
